@@ -19,7 +19,7 @@ I made it to practice working with APIs and to try out some modern CSS styling.
 
 ## 🛠 How it’s built
 - **HTML** for the structure  
-- **CSS** for styling (glassmorphism + gradients)  
+- **CSS** for styling 
 - **JavaScript** for fetching weather data and updating the UI  
 - Uses the **OpenWeather API**  
 
