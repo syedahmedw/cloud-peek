@@ -2,7 +2,7 @@
 A clean and responsive weather app powered by Open-Weather API.
 # 🌦 Weather App
 
-You can take a look at this using the below given link.
+You can take a look at my app using the below given link.
 https://syedahmedw.github.io/cloud-peek
 
 This is a little weather app I built using **HTML, CSS, and JavaScript**.  
