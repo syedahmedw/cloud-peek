@@ -2,8 +2,6 @@
 A clean and responsive weather app powered by Open-Weather API.
 # 🌦 Weather App
 
-You can take a look at my app using the below given link.
-https://syedahmedw.github.io/cloud-peek
 
 This is a little weather app I built using **HTML, CSS, and JavaScript**.  
 Type in a city, and it shows you the current temperature, humidity, and conditions with a fun emoji.  
